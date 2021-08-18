@@ -11,6 +11,7 @@ namespace Attempt_2
         static void Main(string[] args)
         {
             //Toets
+            //Ek dink dit werk nou
         }
     }
 }
