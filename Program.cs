@@ -12,6 +12,7 @@ namespace Attempt_2
         {
             //Toets
             //Ek dink dit werk nou
+            //ek dink ek het dit nou
         }
     }
 }
